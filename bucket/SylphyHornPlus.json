@@ -5,5 +5,5 @@
     "homepage": "https://github.com/hwtnb/SylphyHornPlusWin11",
     "license": "MIT",
     "url": "https://github.com/hwtnb/SylphyHornPlusWin11/releases/download/v4.0.0-beta.9/SylphyHornPlus-Ver4.0.0-beta.9.zip",
-    "bin": "SylphyHorn"
+    "bin": "SylphyHorn.exe"
 }
